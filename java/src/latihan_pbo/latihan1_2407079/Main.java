@@ -1,4 +1,4 @@
-package latihan_pbo.latihan1_2407086;
+package latihan_pbo.latihan1_2407079;
 
 public class Main {
     public static void main(String[] args) {
